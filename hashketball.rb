@@ -1,1 +1,4 @@
-# Write your code here!
+def game_hash                            # Write your code here!
+
+end
+
