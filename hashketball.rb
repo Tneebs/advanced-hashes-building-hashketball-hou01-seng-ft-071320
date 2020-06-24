@@ -4,7 +4,7 @@ hash = {
     :team_name => "Brooklyn Nets",
     :colors => ["Black", "White"],
     :players => {
-      "Alan Anderson" => ,
+      "Alan Anderson" => {
       :number,
       :shoe,
       :points,
@@ -14,6 +14,7 @@ hash = {
       :blocks,
       :slam_dunks
     }
+   }
   },
   :away => {
     :team_name => "",
