@@ -3,7 +3,7 @@ hash = {
   :home => {
     :team_name => "Brooklyn Nets",
     :colors => ["Black", "White"],
-    :players => {
+    :players => [{
       "Alan Anderson" => {
       :number => 0,
       :shoe => 16,
@@ -44,13 +44,24 @@ hash = {
         :blocks => 8,
         :slam_dunks => 5
        }
-       "Jason Terry"
-   }
+       "Jason Terry" => {
+        :number => 31,
+        :shoe => 15,
+        :points => 19,
+        :rebounds => 2,
+        :assists => 2,
+        :steals => 4,
+        :blocks => 11,
+        :slam_dunks => 1
+       }
+   }]
   },
   :away => {
-    :team_name => "",
-    :colors => [""],
-    :players => [{}]
+    :team_name => "Charlotte Hornets",
+    :colors => ["Turqoise", "Purple"],
+    :players => [{
+        "Jeff Adrien"
+    }]
   }
 }
 end
