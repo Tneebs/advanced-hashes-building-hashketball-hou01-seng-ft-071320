@@ -24,7 +24,16 @@ hash = {
       :blocks => 12,
       :slam_dunks => 7
       }
-      "Brook Lopez"
+      "Brook Lopez" => {
+        :number => ,
+        :shoe => ,
+        :points => ,
+        :rebounds => ,
+        :assists => ,
+        :steals => ,
+        :blocks => ,
+        :slam_dunks => 
+      }
    }
   },
   :away => {
